@@ -1,0 +1,10 @@
+.card-height {
+  height: 400px;
+  box-shadow: 5px 8px 8px gainsboro;
+}
+.text-size {
+  font-size: 18px;
+}
+.d-title {
+  font-size: 20px;
+}

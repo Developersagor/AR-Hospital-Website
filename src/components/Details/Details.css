@@ -1,0 +1,14 @@
+.srImg {
+  width: 600px;
+  margin-top: 45px;
+}
+.srDetail {
+  font-size: 18px;
+  text-align: left;
+}
+@media (max-width: 768px) {
+  .srImg {
+    width: 100%;
+    margin-top: -40px;
+  }
+}

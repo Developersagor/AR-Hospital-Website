@@ -1,0 +1,19 @@
+.service-box p {
+  font-size: 15px;
+}
+.service-box img {
+  width: 280px;
+  height: 215px;
+}
+hr {
+  width: 200px;
+  margin: auto;
+}
+.detail-btn {
+  padding: 8px 10px;
+  background-color: rgb(107, 45, 151);
+  color: white;
+  border: none;
+  outline: none;
+  font-size: 15px;
+}

@@ -1,0 +1,92 @@
+.banner {
+  background: url("../../images/slider-img-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 650px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+}
+.banner h1 {
+  font-size: 55px;
+  font-weight: 600;
+  color: rgb(250, 250, 250);
+}
+.banner p {
+  font-size: 20px;
+  letter-spacing: 2px;
+  color: rgb(250, 250, 250);
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+.btn-1 {
+  color: white;
+  padding: 10px 10px;
+  font-size: 20px;
+  background-color: rgb(103, 25, 158);
+}
+.btn-2 {
+  color: white;
+  padding: 10px 10px;
+  font-size: 20px;
+  background-color: #1565c0;
+  margin-left: 20px;
+}
+.news-container-title h2 {
+  font-size: 30px;
+  padding: 10px 0px;
+}
+.news-container-title p {
+  font-size: 20px;
+  color: #7f6666;
+}
+.news-container-title hr {
+  width: 200px;
+  height: 2px;
+  background-color: black;
+}
+.news-desc h2 {
+  padding: 10px 0px;
+}
+.news-desc p {
+  font-size: 15px;
+  color: #7f6666;
+  text-align: center;
+}
+
+.p-content {
+  background-color: #1565c0;
+  color: white;
+}
+.p-content h2 {
+  font-size: 45px;
+  font-weight: 600;
+}
+.p-content p {
+  font-size: 15px;
+  padding-top: 15px;
+  color: #f7e9e9;
+}
+.btn-3 {
+  color: white;
+  padding: 10px 10px;
+  font-size: 20px;
+  background-color: red;
+  margin-top: 20px;
+  outline: none;
+  border: none;
+}
+
+@media (max-width: 768px) {
+  .p-content {
+    width: 100%;
+  }
+}
+/* @media (max-width: 1024px) {
+  .p-content {
+    width: 100%;
+  }
+} */

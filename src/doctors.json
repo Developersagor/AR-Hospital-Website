@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Dr.Veranda Tanumihardja",
+    "image": "https://i.ibb.co/yVZV4mj/veronica.jpg",
+    "title": "Veranda was born and raised in Jakarta, Indonesia. He graduated from the University of...",
+    "desg": "Pulmonary"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Kathryn Wood",
+    "image": "https://i.ibb.co/zbF5Kd7/pediactirc-Doctors-e1460536658595-280x280.jpg",
+    "title": "Kathryn was born and raised in Indonesia, North Way Indonesia He graduated from the University...",
+    "desg": "Dental"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Hooman Azmi",
+    "image": "https://i.ibb.co/MksgS1w/Dr-Kathirnia.jpg",
+    "title": "Hooman was born and raised in Indonesia, North Way Indonesia He graduated from the University...",
+    "desg": "Pulmonary"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Peter Parker",
+    "image": "https://i.ibb.co/XshZp8D/doctor-tahu-bulat-280x280.jpg",
+    "title": "Parker was born and raised in UK, North Way Australia He graduated from the University of...",
+    "desg": "Neurologist"
+  }
+]

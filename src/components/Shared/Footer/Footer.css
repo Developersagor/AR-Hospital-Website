@@ -1,0 +1,32 @@
+.footer {
+  margin-top: 1rem;
+  background: #201e33;
+  padding-bottom: 3rem;
+  font-size: 10px;
+  color: white;
+  margin-top: 100px;
+}
+
+.footer .box-container .box h3 {
+  font-size: 2.5rem;
+  padding: 1rem 0;
+  color: rgb(236, 142, 142);
+}
+
+.footer .box-container .box a {
+  display: block;
+  font-size: 1.5rem;
+  padding: 1rem 0;
+  color: white;
+  text-decoration: none;
+}
+
+.footer .box-container .box a i {
+  padding-right: 0.5rem;
+  color: #cfef2c;
+  transition: 0.5s;
+}
+
+.footer .box-container .box a:hover i {
+  padding-right: 2rem;
+}

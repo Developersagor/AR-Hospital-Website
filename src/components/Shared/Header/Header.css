@@ -1,0 +1,88 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  padding: 1.7rem 9%;
+  border-bottom: 1px solid #ddd;
+  background-color: #fff;
+}
+.logo {
+  font-size: 2.5rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo img {
+  width: 100%;
+}
+.logo span {
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.nav-bar a {
+  font-size: 2rem;
+  padding: 0.5rem 1rem;
+  color: indigo;
+  font-weight: 500;
+}
+.nav-bar a:hover {
+  color: red;
+  letter-spacing: 1px;
+}
+.login-btn {
+  padding: 5px 10px;
+  background-color: #db3833;
+  color: white;
+  font-size: 20px;
+}
+
+@media (max-width: 991px) {
+  html {
+    font-size: 55%;
+  }
+  header {
+    padding: 0.5rem 2rem;
+    flex-direction: column;
+  }
+  .logo img {
+    width: 15%;
+  }
+
+  .nav-div {
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  .nav-bar a {
+    font-size: 1.7rem;
+    padding: 0.5rem 0.8rem;
+  }
+  .login-btn {
+    padding: 2px 5px;
+    background-color: #db3833;
+    color: white;
+    font-size: 15px;
+  }
+}
+.user-name {
+  font-size: 20px;
+  background-color: rgb(26, 184, 26);
+  color: white;
+  padding: 2px 3px;
+  margin-right: 5px;
+}
+@media (max-width: 450px) {
+  html {
+    font-size: 50%;
+  }
+  .user-name {
+    font-size: 10px;
+    margin: 5px 0px;
+  }
+}
