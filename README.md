@@ -3,8 +3,9 @@
 <a href="https://freelearningeasily.netlify.app/" target="_blank" rel="noopener noreferrer">Live Site Click Here </a>
 
 <ul>
-  <li>This website is totally free for learning</li>
-  <li>Here you can lern graphic design,ui ux design</li>
-  <li>And also leran web design,web development</li>
-  <li>Also learn react,redux,node,express,mongo,js etc</li>
+  <li>This website is Hospital Medical Services Related</li>
+  <li>Proud to introduce our latest theme called AR Hospital</li>
+  <li>This theme we’ve been researching and developing for quite some time.</li>
+  <li>AR Hospital is the perfect theme for you to build hospital</li>
+  <li>Doctor or any medical and health related sites</li>
 </ul>
