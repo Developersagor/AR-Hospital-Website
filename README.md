@@ -6,8 +6,13 @@
 
 <ul>
   <li>This website is Hospital Medical Services Related</li>
-  <li>Proud to introduce our latest theme called AR Hospital</li>
-  <li>This theme we’ve been researching and developing for quite some time.</li>
-  <li>AR Hospital is the perfect theme for you to build hospital</li>
-  <li>Doctor or any medical and health related sites</li>
+  <li>This website about hospital services. There are different type of services and department</li>
+  <li>Any user can visit this website. If user will not log in, they could not access many pages 
+because there are many private pages. Finally, if any user log in or register they will access all 
+pages and they show their display name on top header. Any user can be logged out..</li>
+  <li>Users can see details of any services. But if, user did not login they will show login page 
+automatically. Finally, the user login, website automatically redirects service detail page and 
+user read all details.</li>
+  <li>Also, there are numbers of pages like doctors, department and contact including services. 
+Users can find doctors and department easily.</li>
 </ul>
